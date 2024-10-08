@@ -1,6 +1,6 @@
-Para ejecutar el generador se necesita el programa Visual Studio Code que se descarga por medio de este link: 
+Para ejecutar el generador se necesita el programa Visual Studio Code que se descarga por medio de este link: https://code.visualstudio.com
 
-tambien necesitaremos descargar el lenguaje de programacion python por medio de este link:https://www.python.org/downloads/
+tambien necesitaremos descargar el lenguaje de programacion python por medio de este link: https://www.python.org/downloads/
 
 una vez descargado el laucher de Visual Studio procederemos con la descarga del programa
 
