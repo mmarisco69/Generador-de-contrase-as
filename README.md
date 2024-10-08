@@ -9,3 +9,7 @@ finalizada la descarga de ambos programas ejecutamos Visual Studio seguido de es
 saldra un mensaje emergente diciendo "The 'Python' extension is recommended for this file tipe" le daremos click izquierdo a "install". Esto mismo tendremos que hacer si llega a aparecer un mensaje emergente diciendo "Linter pylint is not installed". Una vez terminada de instalar cierra la terminal dandole click izquierdo a la cesta de basura.
 
 Completada la instalacion ya puedes copiar el codigo y pegarlo en Visual Studio.
+
+para ejecutarlo tienes que darle click izquierdo al boton de play que se encuentra en la esquina superior derecha, asi se abrira la terminal con la contraseña creada
+
+recuerda que si vas a cambiar la "Longitud" tendras que darle click izquierdo a la cesta de basura y ejecutar de nuevo 
